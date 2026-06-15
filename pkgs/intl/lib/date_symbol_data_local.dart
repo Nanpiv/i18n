@@ -9230,7 +9230,7 @@ Map<String, DateSymbols> dateTimeSymbolMap() => {
       'ត្រីមាសទី 3',
       'ត្រីមាសទី 4',
     ],
-    AMPMS: const ['a', 'p'],
+    AMPMS: const ['AM', 'PM'],
     DATEFORMATS: const ['EEEE d MMMM y', 'd MMMM y', 'd MMM y', 'd/M/yy'],
     TIMEFORMATS: const ['h:mm:ss a zzzz', 'h:mm:ss a z', 'h:mm:ss a', 'h:mm a'],
     DATETIMEFORMATS: const ['{1}, {0}', '{1}, {0}', '{1}, {0}', '{1}, {0}'],
